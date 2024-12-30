@@ -20,18 +20,18 @@ A dynamic React application to explore Pokémon with features like browsing, sea
 
 ## Technical Stack
 
--   React, React Router, Tailwind CSS/Bootstrap/Material-UI.
+-   React, React Router, Tailwind CSS.
 
 ## Installation
 
 1. Clone the repository.
 2. Install dependencies with `npm install`.
 3. Start the server using `npm run dev`.
-4. Visit `http://localhost:3000`.
+4. Visit `http://localhost:5173`.
 
 ## Deployment
 
-Host the app using platforms like Netlify, Vercel, or GitHub Pages.
+Host the app using Vercel.
 
 ## License
 
