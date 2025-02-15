@@ -33,7 +33,7 @@ A dynamic React application to explore Pokémon with features like browsing, sea
 
 ![pokemnon1](./pokemon1.png)
 ![pokemnon2](./pokemon2.png)
-![pokemnon3](./pokemon13.png)
+![pokemnon3](./pokemon3.png)
 
 ## License
 
