@@ -29,9 +29,11 @@ A dynamic React application to explore Pokémon with features like browsing, sea
 3. Start the server using `npm run dev`.
 4. Visit `http://localhost:5173`.
 
-## Deployment
+## Screenshoot
 
-Host the app using Vercel.
+![pokemnon1](./pokemon1.png)
+![pokemnon2](./pokemon2.png)
+![pokemnon3](./pokemon13.png)
 
 ## License
 
